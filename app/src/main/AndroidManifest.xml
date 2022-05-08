@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DieMischeApp">
         <activity
+            android:name=".activities.AddCropActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.BrowseCropsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.CropInfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.BedViewActivity"
+            android:exported="false" />
+        <activity
             android:name=".activities.BedActivity"
             android:exported="false" />
         <activity

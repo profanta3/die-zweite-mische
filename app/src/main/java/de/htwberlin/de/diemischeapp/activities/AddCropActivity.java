@@ -6,11 +6,11 @@ import android.os.Bundle;
 
 import de.htwberlin.de.diemischeapp.R;
 
-public class BedActivity extends AppCompatActivity {
+public class AddCropActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bed);
+        setContentView(R.layout.activity_add_crop);
     }
 }

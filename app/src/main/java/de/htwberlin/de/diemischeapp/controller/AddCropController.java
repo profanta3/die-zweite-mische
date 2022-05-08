@@ -1,5 +1,4 @@
 package de.htwberlin.de.diemischeapp.controller;
 
-public class DataHandlerController {
-
+public class AddCropController {
 }
